@@ -21,6 +21,13 @@ This project aims to predict the future stock prices of Tesla (TSLA) using machi
   - **TensorFlow/Keras**: For building neural network models (if applicable).
 - **Tesla Stock Dataset**: Historical stock data of Tesla (TSLA) obtained from sources like Yahoo Finance or Alpha Vantage.
 
+## Setup Instructions
+
+- To run this project in Jupyter Notebook, follow these steps:
+- Download all dependencies (pandas, numpy, matplotlib,scikit-learn, tensorflow)
+- Download the dataset and Source file and open it in **Jupyter Notebook**
+
+
 ## Dataset
 
 - **Source**: Tesla stock data (TSLA) from Yahoo Finance or Alpha Vantage.
