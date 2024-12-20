@@ -18,7 +18,7 @@ This project aims to predict the future stock prices of Tesla (TSLA) using machi
   - **NumPy**: For numerical operations.
   - **Matplotlib**: For data visualization.
   - **Scikit-learn**: For machine learning algorithms and model evaluation.
-  - **TensorFlow/Keras**: For building neural network models (if applicable).
+  - **TensorFlow/Keras**: For building neural network models.
 - **Tesla Stock Dataset**: Historical stock data of Tesla (TSLA) obtained from sources like Yahoo Finance or Alpha Vantage.
 
 ## Setup Instructions
@@ -30,7 +30,7 @@ This project aims to predict the future stock prices of Tesla (TSLA) using machi
 
 ## Dataset
 
-- **Source**: Tesla stock data (TSLA) from Yahoo Finance or Alpha Vantage.
+- **Source**: Tesla stock data (TSLA) from Yahoo Finance
 - **Features**: 
   - Open
   - High
